@@ -1,0 +1,5 @@
+1|chamarra|350|invierno
+2|vestido rojo|250|vestido de noche
+3|Botas cafe|500|Botas de invierno
+4|Blusa floriada|250|Ocasion casual
+5|Pantalo de mesclilla acanpanado|300|ropa casual
