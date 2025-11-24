@@ -1,0 +1,5 @@
+chamarra|350.0|3|1050.0
+vestido rojo|250.0|5|1250.0
+Botas cafe|500.0|1|500.0
+Blusa floriada|250.0|3|750.0
+Pantalo de mesclilla acanpanado|300.0|4|1200.0
